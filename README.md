@@ -14,7 +14,6 @@ I am passionate about coding, learning new technologies, and building projects.
 ## Skills
 - Programming Languages: JavaScript, Python, Java, C++ (customize as needed)
 - Frameworks & Libraries: React, Node.js, Express, Django (customize as needed)
-- Tools & Platforms: Git, GitHub, Docker, AWS (customize as needed)
-
+- Tools & Platforms: Git, GitHub, Docker, AWS 
 
 
