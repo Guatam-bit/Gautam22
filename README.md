@@ -16,17 +16,5 @@ I am passionate about coding, learning new technologies, and building projects.
 - Frameworks & Libraries: React, Node.js, Express, Django (customize as needed)
 - Tools & Platforms: Git, GitHub, Docker, AWS (customize as needed)
 
-## Projects
-Here are a few projects I've worked on:
-- [Project 1](link) - Brief description
-- [Project 2](link) - Brief description
-- [Project 3](link) - Brief description
 
-## GitHub Stats
-
-![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAUTAM22&show_icons=true&theme=radical)
-
----
-
-Thanks for stopping by! Feel free to connect with me.
 
