@@ -10,7 +10,6 @@ I am passionate about coding, learning new technologies, and building projects.
 - 💬 Ask me about anything related to [your expertise]
 - 📫 How to reach me: [your email or social media]
 - ⚡ Fun fact: [something interesting about you]
-
 ## Skills
 - Programming Languages: JavaScript, Python, Java, C++ (customize as needed)
 - Frameworks & Libraries: React, Node.js, Express, Django (customize as needed)
